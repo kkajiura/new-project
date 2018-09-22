@@ -1,1 +1,2 @@
-# Hello git
+# Hi, Git
+Everything is local.
